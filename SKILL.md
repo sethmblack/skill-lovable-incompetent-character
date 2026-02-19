@@ -3,7 +3,7 @@ name: lovable-incompetent-character
 description: Create endearing characters whose earnest efforts exceed their abilities, making failure relatable and learning visible
 license: MIT
 metadata:
-  version: 1.0.4410
+  version: 1.0.4411
   author: Seth Black
 repository: https://github.com/sethmblack/paks-skills
 keywords:
